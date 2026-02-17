@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
-       alt="Software Engineer Illustration" 
+  <img src="https://cdn.dribbble.com/users/361178/screenshots/3848025/coding-girl.gif" 
+       alt="Female Software Engineer Illustration" 
        width="350" />
 </p>
 
