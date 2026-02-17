@@ -1,113 +1,75 @@
 
 <div align="center">
-  <!-- Replace with your project logo or banner -->
-  <img src="https://via.placeholder.com/1200x300?text=Project+Banner" alt="Project Banner" width="100%">
-  
-  <h1 align="center">Project Title</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hi%20there,%20I'm%20Ikram!%20👋&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=25&descAlignY=60&animation=fadeIn" alt="Header" width="100%"/>
+</div>
 
-  <p align="center">
-    <strong>A brief, catchy description of the project goes here.</strong>
-  </p>
+<div align="center">
 
-  <p align="center">
-    <a href="#features">Features</a> •
-    <a href="#demo">Demo</a> •
-    <a href="#tech-stack">Tech Stack</a> •
-    <a href="#installation">Installation</a> •
-    <a href="#usage">Usage</a>
-  </p>
+  ### 🚀 About Me
+
+  I'm **Ikram Abdelgadir**, a passionate **Software Engineer** based in **Riyadh, Saudi Arabia**.  
+  With **4+ years of experience**, I specialize in building high-performance, scalable web applications.  
+  I bridge the gap between complex backend systems using **Java & Spring Framework** and modern, responsive user interfaces with **React & Angular**.
+
+  ---
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzF4bW14em5qbGZ6Ynh3YmYxeW56Ynh3YmYxeW56Ynh3YmYxeSZmbT1naWYmY3Q9cw/LRYjQoH3jT85H5lW6V/giphy.gif" width="30"> **Currently working on:** Modernizing legacy banking systems and integrating secure payment APIs.  
+  🌱 **Learning:** Advanced Systems Architecture, Cloud Deployment, and AI-Assisted Development.  
+  💬 **Ask me about:** Java, Spring Boot, React.js, Angular, and API Integration.  
+  📫 **How to reach me:** [ikramabdelgadir@gmail.com](mailto:ikramabdelgadir@gmail.com)
+
+</div>
+
+<br />
+
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
   
-  <p align="center">
-    <!-- Replace with actual badges -->
-    <img src="https://img.shields.io/github/license/ikram-Saif/REPO_NAME?style=flat-square" alt="License">
-    <img src="https://img.shields.io/github/stars/ikram-Saif/REPO_NAME?style=flat-square" alt="Stars">
-    <img src="https://img.shields.io/github/forks/ikram-Saif/REPO_NAME?style=flat-square" alt="Forks">
-    <img src="https://img.shields.io/github/issues/ikram-Saif/REPO_NAME?style=flat-square" alt="Issues">
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
 </div>
 
----
-
-## 💡 About The Project
-
-Explain *what* the project is and *why* it's useful.
-
-- **Problem:** What problem does this solve?
-- **Solution:** How does your project solve it?
-- **Goal:** What was the main motivation?
-
-## ✨ Features
-
-- ✅ **Feature 1:** Description of feature.
-- ✅ **Feature 2:** Description of feature.
-- ✅ **Feature 3:** Description of feature.
-- 🎨 **Modern UI:** Clean and responsive design.
-
-## 🚀 Live Demo
-
-[View Live Demo](https://your-project-link.com)
-
-![Project Screenshot](https://via.placeholder.com/800x450?text=App+Screenshot)
-
-## 🛠️ Tech Stack
-
-**Frontend:**
-- ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend:**
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-
-## 📦 Installation
-
-Clone the project and install dependencies:
-
-```bash
-# Clone the repository
-git clone https://github.com/ikram-Saif/REPO_NAME.git
-
-# Navigate to the project directory
-cd REPO_NAME
-
-# Install dependencies
-npm install
-# or
-composer install
-```
-
-## 🔧 Usage
-
-Steps to run the application locally:
-
-```bash
-# Start the development server
-npm run dev
-# or
-php artisan serve
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-## 🤝 Contributing
-
-Contributions are welcome!
-1. Fork the project.
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the Branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
-
-## 👤 Author
-
-**Ikram Saifeldin Abdelgadir**
-- GitHub: [@ikram-Saif](https://github.com/ikram-Saif)
-- LinkedIn: [Ikram Saifeldin](https://linkedin.com/in/YOUR_LINKEDIN)
-
----
+<br />
 
 <div align="center">
-  Give a ⭐️ if you like this project!
+  <h3>📊 GitHub Stats</h3>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ikram-Saif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ikram's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikram-Saif&theme=tokyonight&hide_border=true&background=0d1117" alt="Ikram's Streak" />
+  
+  <br />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikram-Saif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <h3>🤝 Connect with Me</h3>
+  <a href="https://www.linkedin.com/in/ikram-abdelgadir-70331b224/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ikramabdelgadir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
 </div>
