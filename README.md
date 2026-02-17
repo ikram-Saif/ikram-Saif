@@ -1,28 +1,25 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-       alt="Software Engineer Illustration" 
-       width="120" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70"/>
 </p>
 
-## 💖 Ikram Abdelgadir  
-### Software Engineer | Frontend & Java API Integration  
+<h2 align="center">💖 Ikram Abdelgadir</h2>
+<h4 align="center">Software Engineer | Frontend • Java API Integration • Junior Backend</h4>
 
-<p align="left">
-  📍 Riyadh, Saudi Arabia <br/>
-  📧 <a href="mailto:ikramabdelgadir@gmail.com">ikramabdelgadir@gmail.com</a> <br/>
+<p align="center">
+  📍 Riyadh, Saudi Arabia · 
+  📧 <a href="mailto:ikramabdelgadir@gmail.com">ikramabdelgadir@gmail.com</a> · 
   📞 +966 553 134 515 <br/>
   🔗 <a href="https://www.linkedin.com/in/ikram-abdelgadir-70331b224/">LinkedIn</a> ·
-     <a href="https://github.com/ikram-Saif">GitHub</a>
+  <a href="https://github.com/ikram-Saif">GitHub</a>
 </p>
 
 ---
 
 ### ✨ About Me
 Software Engineer with **4+ years of experience** building fast, elegant, and scalable web applications.  
-Strong background in **React, Angular, and TypeScript**, with hands-on experience in **Java, Spring, and API integration**.  
+Strong expertise in **React, Angular, and TypeScript**, with hands-on experience in **Java, Spring, and REST API integration**.  
 Comfortable working across frontend and backend layers and growing into **junior backend roles**.
 
 ---
@@ -46,17 +43,59 @@ Comfortable working across frontend and backend layers and growing into **junior
 ![Spring](https://img.shields.io/badge/Spring-FFD6E8?style=for-the-badge&logo=spring&logoColor=000)
 ![REST](https://img.shields.io/badge/REST%20APIs-FFEFF8?style=for-the-badge)
 
-#### 🔧 Tools
+#### 🔧 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-FFF1F9?style=for-the-badge&logo=git&logoColor=000)
 ![Vite](https://img.shields.io/badge/Vite-FFE4F2?style=for-the-badge&logo=vite&logoColor=000)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-FFD6E8?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI--Assisted%20Dev-FFEFF8?style=for-the-badge)
+
+---
+
+### 🚀 Projects, Publications & Recognition
+
+#### 📘 Publications & Awards
+- **Technical Book (Co-Author):**  
+  *Designing and Implementing Telemedicine Systems* — covering the design and implementation of a web-based telehealth system.  
+  🔗 [View on Amazon](https://bit.ly/4otawhA)
+
+- **Academic Recognition:**  
+  Graduation Telemedicine System recognized among the **top research projects in Arab universities (2015)**.
+
+---
+
+#### 💻 Selected Technical Projects
+
+**🌐 FihumKheer Charity Website (2024)**  
+*Sole Developer & Designer*  
+- End-to-end ownership: design, development, and deployment  
+- Responsive UI and clean architecture  
+- **Stack:** HTML, CSS, JavaScript, Bootstrap  
+🔗 [Live Demo](https://fihumkheer.org/)
+
+---
+
+**⚛️ Nafir Portal (2025)**  
+*Frontend Team Contributor*  
+- Built and enhanced key pages and features  
+- Worked with a scalable modern frontend stack  
+- **Stack:** React.js, Next.js, Tailwind CSS  
+🔗 [Live Demo](https://portal.nafir.net/)
+
+---
+
+**❤️ Sadagaat Website**  
+*React-based Donation Platform*  
+- Contributed to a high-impact donation system  
+- Improved engagement and performance through optimized UI  
+🔗 [Live Demo](https://www.sadagaat-uk.org/)
 
 ---
 
 ### 🌸 What I Bring
-✨ Clean, modern, maintainable UI  
-⚡ Performance-focused development  
-🔗 Reliable API integration & system communication  
-🤖 AI-assisted productivity  
+✨ Clean, modern, maintainable code  
+⚡ Performance-focused UI & APIs  
+🔗 Reliable system & API integration  
+🤖 Smart use of AI tools  
 
 ---
 
