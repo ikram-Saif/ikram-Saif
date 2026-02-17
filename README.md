@@ -1,109 +1,57 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="GitHub README header" />
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/ikram-abdelgadir-70331b224/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
-  </a>
-  <a href="https://github.com/ikram-Saif">
-    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" height="25" />
-  </a>
-  <a href="mailto:ikramabdelgadir@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
-  </a>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
+       alt="Software Engineer Illustration" 
+       width="350" />
+</p>
+
+## 💖 Ikram Abdelgadir  
+### Frontend Software Engineer | React & Angular  
+
+<p align="left">
+  📍 Riyadh, Saudi Arabia <br/>
+  📧 <a href="mailto:ikramabdelgadir@gmail.com">ikramabdelgadir@gmail.com</a> <br/>
+  📞 +966 553 134 515 <br/>
+  🔗 <a href="https://www.linkedin.com/in/ikram-abdelgadir-70331b224/">LinkedIn</a> ·
+     <a href="https://github.com/ikram-Saif">GitHub</a>
 </p>
 
 ---
 
-## 👋 Hi, I'm Ikram Abdelgadir
-
-**Software Engineer | Frontend Specialist**  
-📍 Riyadh, Saudi Arabia  
-📧 ikramabdelgadir@gmail.com  
-📞 +966 553 134 515  
+### ✨ About Me
+Frontend-focused **Software Engineer with 4+ years of experience** crafting fast, elegant, and scalable web applications.  
+I specialize in **React, Angular, and TypeScript**, with a strong eye for performance, clean architecture, and modern UI.  
+I enjoy using **AI-assisted tools** to ship high-quality code efficiently and thoughtfully.
 
 ---
 
-## 🧠 Professional Summary
+### 🛠️ Tech Stack & Skills
 
-Software Engineer with **4+ years of experience** building high-performance, scalable frontend applications.  
-Specialized in **React, Angular, and TypeScript**, with strong experience modernizing legacy systems, integrating payment platforms, and delivering clean, maintainable code using **AI-assisted development tools**.
+#### 💻 Frontend
+![React](https://img.shields.io/badge/React-FFE4F2?style=for-the-badge&logo=react&logoColor=000)
+![Angular](https://img.shields.io/badge/Angular-FFD6E8?style=for-the-badge&logo=angular&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFEFF8?style=for-the-badge&logo=typescript&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF1F9?style=for-the-badge&logo=javascript&logoColor=000)
 
-Actively seeking opportunities to contribute to impactful products and collaborative engineering teams.
+#### 🎨 Styling
+![Tailwind](https://img.shields.io/badge/TailwindCSS-FFE4F2?style=for-the-badge&logo=tailwindcss&logoColor=000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-FFD6E8?style=for-the-badge&logo=bootstrap&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML5-FFEFF8?style=for-the-badge&logo=html5&logoColor=000)
+![CSS](https://img.shields.io/badge/CSS3-FFF1F9?style=for-the-badge&logo=css3&logoColor=000)
 
----
-
-## 💼 Work Experience
-
-### **Software Engineer (Full-Stack)**  
-**Electronic Banking Services (EBS)**  
-📅 Apr 2022 – Oct 2025  
-
-- Modernized legacy UI systems to improve performance and responsiveness  
-- Integrated banking platforms and payment providers with the **National Switch**  
-- Implemented change requests using **Java & Spring Framework**  
-- Improved system reliability and transaction stability  
-
----
-
-### **Frontend Engineer (Angular)**  
-**Boba Money Transfer**  
-📅 Oct 2020 – Aug 2021  
-
-- Built a full-featured **Angular dashboard** for money exchange & transaction management  
-- Integrated mobile APIs for real-time data synchronization  
-- Optimized data-heavy components, improving load speed by **35%**  
+#### ⚙️ Backend & Tools
+![Java](https://img.shields.io/badge/Java-FFE4F2?style=for-the-badge&logo=openjdk&logoColor=000)
+![Spring](https://img.shields.io/badge/Spring-FFD6E8?style=for-the-badge&logo=spring&logoColor=000)
+![Git](https://img.shields.io/badge/Git-FFEFF8?style=for-the-badge&logo=git&logoColor=000)
+![Vite](https://img.shields.io/badge/Vite-FFF1F9?style=for-the-badge&logo=vite&logoColor=000)
 
 ---
 
-### **Frontend Engineer (React.js)**  
-**Interface Co. Ltd**  
-📅 Nov 2019 – Oct 2020  
-
-- Developed React applications with **30% faster load times**  
-- Integrated secure payment APIs for donation processing  
-- Built a volunteer engagement module, increasing participation by **40%**  
+### 🌸 What I Bring
+✨ Clean, modern, maintainable UI  
+⚡ Performance-focused development  
+🎯 Strong collaboration  
+🤖 AI-assisted productivity  
 
 ---
 
-## 🎓 Education
-
-**B.Sc. in Software Engineering**  
-Sudan University of Science and Technology — *2015*
-
----
-
-## 🛠️ Skills
-
-### **Frontend**
-- React.js, Angular  
-- JavaScript (ES6+), TypeScript  
-- Context API  
-- Tailwind CSS, Bootstrap  
-- HTML5, CSS3  
-
-### **Backend**
-- Java  
-- Spring Framework  
-
-### **Tools & Practices**
-- Git, Vite  
-- Agile / Scrum  
-- AI-Assisted Development  
-
----
-
-## 🌍 Additional Information
-
-- **Languages:** Arabic (Native), English (Professional Working Proficiency)  
-- **Availability:** Immediate  
-- **Iqama Status:** Transferable  
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ikram-Saif&show_icons=true" alt="GitHub Stats" />
-
----
-
-⭐ *Feel free to explore my repositories and connect with me on LinkedIn!*
+💌 *Open to frontend-focused roles and exciting collaborations.*
