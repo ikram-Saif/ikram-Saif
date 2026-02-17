@@ -9,10 +9,7 @@
 
 <p align="center">
   📍 Riyadh, Saudi Arabia · 
-  📧 <a href="mailto:ikramabdelgadir@gmail.com">ikramabdelgadir@gmail.com</a> · 
-  📞 +966 553 134 515 <br/>
   🔗 <a href="https://www.linkedin.com/in/ikram-abdelgadir-70331b224/">LinkedIn</a> ·
-  <a href="https://github.com/ikram-Saif">GitHub</a>
 </p>
 
 ---
