@@ -1,21 +1,109 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
-<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-<h2>Check My Nuxt Starter Kit</h2>
-  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
-      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Nuxt Starter Kit" height="500" >
-    </a>
-<h2>Latest Blog Posts</h2>
-  <ul>
-  <li><a href=https://mokkapps.de/blog/vue-state-management-composables-provide-inject-pinia target="_blank" rel="noreferrer nofollow">Navigating State Management in Vue: Composables, Provide/Inject, and Pinia</a></li><li><a href=https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea target="_blank" rel="noreferrer nofollow">Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey</a></li><li><a href=https://mokkapps.de/blog/connecting-mysql-database-nuxt-drizzle-orm target="_blank" rel="noreferrer nofollow">Connecting a MySQL Database in Nuxt with Drizzle ORM</a></li><li><a href=https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build target="_blank" rel="noreferrer nofollow">Nuxt Tip: Accessing Pinia Store in Production Build</a></li><li><a href=https://mokkapps.de/blog/vercel-acquires-nuxtlabs target="_blank" rel="noreferrer nofollow">Vercel Acquires NuxtLabs: What This Means for the Future of Nuxt</a></li>
-  </ul>
-<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
-<h2>Latest Newsletter Issues</h2>
-  <ul>
-    <li><a href=https://weekly-vue.news/issues/v2/201 target="_blank" rel="noreferrer nofollow">Weekly Vue News #237 - Top Nuxt Modules for 2026, TypeScript 6.0 Beta, and AI Content Tools</a></li><li><a href=https://weekly-vue.news/issues/v2/200 target="_blank" rel="noreferrer nofollow">Weekly Vue News #246 - Vue on the Edge, Nuxt CLI Upgrades, and the Vite January Recap</a></li><li><a href=https://weekly-vue.news/issues/v2/199 target="_blank" rel="noreferrer nofollow">Weekly Vue News #235 - Dynamic UIs, Drag-and-Drop Nuxt, and Smarter Vue Forms</a></li><li><a href=https://weekly-vue.news/issues/v2/198 target="_blank" rel="noreferrer nofollow">Weekly Vue News #234 - Nuxt 4.3 Released, Vue Testing Insights & Free JavaScript Certification Weekend</a></li><li><a href=https://weekly-vue.news/issues/v2/197 target="_blank" rel="noreferrer nofollow">Weekly Vue News #233 - Hydration Fixes, Global Store Pitfalls & the CSS of the Future</a></li>
-  </ul>
-<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="GitHub README header" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ikram-abdelgadir-70331b224/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+  </a>
+  <a href="https://github.com/ikram-Saif">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" height="25" />
+  </a>
+  <a href="mailto:ikramabdelgadir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+  </a>
+</p>
+
+---
+
+## 👋 Hi, I'm Ikram Abdelgadir
+
+**Software Engineer | Frontend Specialist**  
+📍 Riyadh, Saudi Arabia  
+📧 ikramabdelgadir@gmail.com  
+📞 +966 553 134 515  
+
+---
+
+## 🧠 Professional Summary
+
+Software Engineer with **4+ years of experience** building high-performance, scalable frontend applications.  
+Specialized in **React, Angular, and TypeScript**, with strong experience modernizing legacy systems, integrating payment platforms, and delivering clean, maintainable code using **AI-assisted development tools**.
+
+Actively seeking opportunities to contribute to impactful products and collaborative engineering teams.
+
+---
+
+## 💼 Work Experience
+
+### **Software Engineer (Full-Stack)**  
+**Electronic Banking Services (EBS)**  
+📅 Apr 2022 – Oct 2025  
+
+- Modernized legacy UI systems to improve performance and responsiveness  
+- Integrated banking platforms and payment providers with the **National Switch**  
+- Implemented change requests using **Java & Spring Framework**  
+- Improved system reliability and transaction stability  
+
+---
+
+### **Frontend Engineer (Angular)**  
+**Boba Money Transfer**  
+📅 Oct 2020 – Aug 2021  
+
+- Built a full-featured **Angular dashboard** for money exchange & transaction management  
+- Integrated mobile APIs for real-time data synchronization  
+- Optimized data-heavy components, improving load speed by **35%**  
+
+---
+
+### **Frontend Engineer (React.js)**  
+**Interface Co. Ltd**  
+📅 Nov 2019 – Oct 2020  
+
+- Developed React applications with **30% faster load times**  
+- Integrated secure payment APIs for donation processing  
+- Built a volunteer engagement module, increasing participation by **40%**  
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Software Engineering**  
+Sudan University of Science and Technology — *2015*
+
+---
+
+## 🛠️ Skills
+
+### **Frontend**
+- React.js, Angular  
+- JavaScript (ES6+), TypeScript  
+- Context API  
+- Tailwind CSS, Bootstrap  
+- HTML5, CSS3  
+
+### **Backend**
+- Java  
+- Spring Framework  
+
+### **Tools & Practices**
+- Git, Vite  
+- Agile / Scrum  
+- AI-Assisted Development  
+
+---
+
+## 🌍 Additional Information
+
+- **Languages:** Arabic (Native), English (Professional Working Proficiency)  
+- **Availability:** Immediate  
+- **Iqama Status:** Transferable  
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ikram-Saif&show_icons=true" alt="GitHub Stats" />
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me on LinkedIn!*
