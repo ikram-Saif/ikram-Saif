@@ -3,7 +3,6 @@
        alt="Female Software Engineer Illustration" 
        width="350" />
 </p>
-
 ## 💖 Ikram Abdelgadir  
 ### Frontend Software Engineer | React & Angular  
 
