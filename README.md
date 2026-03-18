@@ -70,6 +70,13 @@ Comfortable working across frontend and backend layers and growing into **junior
 🔗 [Live Demo](https://fihumkheer.org/)
 
 ---
+**🌐 FihumKheer admin portal (2025)**  
+*Sole Developer & Designer*  
+- End-to-end ownership: design, development, and deployment  
+- 
+- **Stack:** React.js, strapi  
+🔗 [github](https://github.com/ikram-Saif/FihumKheer-Portal)
+---
 
 **⚛️ Nafir Portal (2025)**  
 *Frontend Team Contributor*  
