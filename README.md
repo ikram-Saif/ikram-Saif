@@ -62,6 +62,12 @@ Comfortable working across frontend and backend layers and growing into **junior
 
 #### 💻 Selected Technical Projects
 
+**🌐 Altras mony transfer Website  and dashboard(2024)**  
+  
+- Altras is an Angular 11 web application for a money transfer service. It includes public marketing pages, legal pages, user authentication, a protected customer dashboard, transfer tools, receiver management, branch locations, help content, document upload, inbox, and profile management. 
+- **Stack:** angular, CSS, TypeScript, Bootstrap  
+🔗 [GitHub](https://github.com/ikram-Saif/Altras-website-and-Dashboard)
+
 **🌐 FihumKheer Charity Website (2024)**  
 *Sole Developer & Designer*  
 - End-to-end ownership: design, development, and deployment  
